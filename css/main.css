@@ -1,0 +1,56 @@
+
+
+body {
+font-family: 'Josefin Sans', sans-serif;
+
+}
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+/* top bar styling */
+.name h1
+{
+text-align: right;
+}
+
+.name h2 {
+	text-align: right;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.top img {
+margin: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+
+/* protfolio styling */
+.bigspace {
+	background: #384F7F;
+	color:white;
+	margin-top: 5px;
+	margin-bottom: 25px;
+}
+
+.portfolio-items img, .hero img
+{
+	margin:auto;
+}
+
+.project img {
+	margin:auto;
+}
+.project h3 {
+	text-align: center;
+}
+.project p {
+text-align: center;
+}
+
+
+
